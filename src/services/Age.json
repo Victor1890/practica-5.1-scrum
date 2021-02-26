@@ -1,0 +1,7 @@
+[
+    {
+        "default": "07/18/2005",
+        "name": "Edad",
+        "message": "Introducir UNA fecha de nacimiento Ej: '07/18/2005' "
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "type": "rawlist",
+        "name": "options",
+        "message": "¿Cuál opción deseas realizar?",
+        "choices": [
+            "Primo",
+            "Edades",
+            "Salarios"
+        ]
+    }
+]
